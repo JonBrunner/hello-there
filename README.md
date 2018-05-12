@@ -1,2 +1,3 @@
 # hello-there
-General Kenobi. You ARE a bold one.
+General Kenobi.
+You ARE a bold one.
